@@ -1,0 +1,17 @@
+body{
+    background-color:#816c5b;
+    color:#fff;
+}
+
+#mainwrap{
+    display: flex;
+    justify-content: center;
+    margin-top : 50px;
+}
+
+.card{
+    color:#000;
+}
+.shadow-lg{
+    color:#000;
+}
